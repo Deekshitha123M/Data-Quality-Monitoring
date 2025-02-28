@@ -14,7 +14,7 @@ This project automates **data quality monitoring** in cloud databases using **AI
 ## 🚀 Setup & Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com//AI-Data-Quality-Monitoring.git
+git clone https://github.com/Deekshitha123M/AI-Data-Quality-Monitoring.git
 cd AI-Data-Quality-Monitoring
 ```
 
@@ -93,10 +93,5 @@ Feel free to **fork** this project and submit pull requests!
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
-### 🌟 Show Some Support!
-If you like this project, give it a ⭐ on GitHub!
 
----
-### 🔗 Author
-Created by **Jenet** 🚀
+
